@@ -12,3 +12,13 @@ plo, dão resposta como a raiz quadrada de um número negativo e são usados em 
   ex: 1+2j, 1+2J, complex(1, 2), 1+2k.real, 1+2k.imag.
   
  
+## Operadores Aritméticos
+
+- x + y (adição);
+- x - y (subtração);
+- x / y (divisão em ponto flutuante);
+- x // y (divisão descartando parte fracionária);
+- x * y (multiplicação);
+- x % y (resto);
+- -x (negação);
+- x ** y (potência).
