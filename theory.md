@@ -9,6 +9,6 @@ interpretadores – como Jython –, isso é feito por meio do tipo flutuante de
 
 **numeros complexos (complex):** Eles têm a parte imaginária e a real,sendo que cada uma delas é um float . Os números complexos, por exem-
 plo, dão resposta como a raiz quadrada de um número negativo e são usados em domínios como engenharia elétrica, estatística etc.
-  ex: 1+2j, 1+2J, 1+2k.real, 1+2k.imag.
+  ex: 1+2j, 1+2J, complex(1, 2), 1+2k.real, 1+2k.imag.
   
  
