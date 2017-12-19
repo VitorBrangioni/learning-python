@@ -11,6 +11,8 @@ interpretadores – como Jython –, isso é feito por meio do tipo flutuante de
 plo, dão resposta como a raiz quadrada de um número negativo e são usados em domínios como engenharia elétrica, estatística etc.
   ex: 1+2j, 1+2J, complex(1, 2), 1+2k.real, 1+2k.imag.
   
+ **string:** Não há tipo *char*, somente string, mesmo se houver somenete um caracter. 
+  
  
 ## Operadores Aritméticos
 
