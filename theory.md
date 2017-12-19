@@ -19,8 +19,11 @@ Não há tipo *char*, somente string, mesmo se houver somenete um caracter.
 
 - var[1]: pegar caracter;
 - len(var): tamanho da string;
-- var[2:5]: slice.
-  
+- var[2:5]: slice;
+- "m" in "marmita" // true;
+- "x" not in "marmita" // false
+- "Hello" + "World" // Hello World;
+- "x"*3 // xxx
  
 ## Operadores Aritméticos
 
