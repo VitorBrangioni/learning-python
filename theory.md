@@ -22,3 +22,17 @@ plo, dão resposta como a raiz quadrada de um número negativo e são usados em 
 - x % y (resto);
 - -x (negação);
 - x ** y (potência).
+
+## Operadores de Bits
+
+- x | y (ou);
+- x ^y (ou exclusivo);
+- x & y (e);
+- x << y (x com y bits deslocados à esquerda);
+- x >> y (x com y bits deslocados à direita);
+- ~x (inverso em bits).
+
+## Operações misturando tipos diferentes e as regras de coerção
+
+Se operarmos um int e um float , vamos ter como resultado um float . Se operarmos um int ou float com um complex,
+vamos ter como resultado um complex .
