@@ -9,11 +9,17 @@ No interpretador padrão CPython, os float são implementados usando o tipo doub
 interpretadores – como Jython –, isso é feito por meio do tipo flutuante de precisão dupla da plataforma abaixo, no caso a JVM.
   ex: 3.4, float('3.4')
 
-**numeros complexos (complex):** Eles têm a parte imaginária e a real,sendo que cada uma delas é um float . Os números complexos, por exem-
+## numeros complexos (complex):
+Eles têm a parte imaginária e a real,sendo que cada uma delas é um float . Os números complexos, por exem-
 plo, dão resposta como a raiz quadrada de um número negativo e são usados em domínios como engenharia elétrica, estatística etc.
   ex: 1+2j, 1+2J, complex(1, 2), 1+2k.real, 1+2k.imag.
   
- **string:** Não há tipo *char*, somente string, mesmo se houver somenete um caracter. 
+## string:
+Não há tipo *char*, somente string, mesmo se houver somenete um caracter. 
+
+- var[1]: pegar caracter;
+- len(var): tamanho da string;
+- var[2:5]: slice.
   
  
 ## Operadores Aritméticos
